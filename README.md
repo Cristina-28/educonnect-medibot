@@ -14,13 +14,13 @@ All conversations are in Romanian.
 
 ## Context
 
-EduConnect is a fictional company I created as a portfolio project. It offers private tutoring (meditații) for students preparing for Evaluarea Națională (8th grade) and Bacalaureat (12th grade) in Romania.
+EduConnect is a fictional company I created as a portfolio project. It offers private tutoring for students preparing for Evaluarea Națională (8th grade) and Bacalaureat (12th grade) in Romania.
 
 ## Tech used
 
 - Microsoft Copilot Studio
 - Knowledge base (custom .txt files for subjects, tutors, pricing, FAQ)
-- System topic customization (greeting, fallback, escalation — all in Romanian)
+- System topic customization (greeting, fallback, escalation, in Romanian)
 
 ## Repo structure
 
