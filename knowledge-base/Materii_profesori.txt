@@ -1,0 +1,61 @@
+MATERII DISPONIBILE:
+
+EVALUAREA NAȚIONALĂ (clasa a 5-a - a 8-a):
+- Matematică
+- Limba și Literatura Română
+
+BACALAUREAT (clasa a 9-a - a 12-a):
+- Matematică (M1 - mate-info / M2 - științe / M3 - pedagogic)
+- Limba și Literatura Română
+- Fizică
+- Chimie
+- Biologie
+- Informatică (C/C++, Python)
+- Istorie
+- Geografie
+- Logică
+- Economie
+- Limba Engleză
+- Limba Franceză
+
+PROFESORI EDUCONNECT
+
+1. Prof. Andrei Popescu — Matematică (EN + BAC M1/M2)
+   Experiență: 12 ani | Rating: 4.9/5 | Disponibilitate: L-V 14:00-20:00
+   Stil: structurat, exerciții progresive, simulări de examen
+   Disponibil: online + fizic
+
+2. Prof. Maria Ionescu — Limba și Literatura Română (EN + BAC)
+   Experiență: 8 ani | Rating: 4.8/5 | Disponibilitate: L-S 10:00-18:00
+   Stil: interactiv, accent pe eseuri și analiză de text
+   Disponibil: online + fizic
+
+3. Prof. Vlad Dumitrescu — Fizică (BAC)
+   Experiență: 10 ani | Rating: 4.7/5 | Disponibilitate: L-V 16:00-21:00
+   Stil: explicații vizuale, probleme aplicate, experimente mentale
+   Disponibil: doar online
+
+4. Prof. Elena Radu — Chimie (BAC)
+   Experiență: 6 ani | Rating: 4.8/5 | Disponibilitate: L-S 09:00-15:00
+   Stil: scheme rezumat, exerciții tip grilă, recapitulări rapide
+   Disponibil: online + fizic
+
+5. Prof. Bogdan Stanciu — Informatică C++ / Python (BAC)
+   Experiență: 5 ani | Rating: 4.9/5 | Disponibilitate: L-V 17:00-21:00, S 10:00-14:00
+   Stil: learning by doing, mini-proiecte, debugging live
+   Disponibil: doar online
+
+6. Prof. Ana Marin — Limba Engleză (BAC + conversație)
+   Experiență: 9 ani | Rating: 4.6/5 | Disponibilitate: L-V 10:00-19:00
+   Stil: imersiv, accent pe speaking și writing
+   Disponibil: online + fizic
+
+7. Prof. Cristian Neagu — Istorie (BAC)
+   Experiență: 7 ani | Rating: 4.7/5 | Disponibilitate: M-S 12:00-20:00
+   Stil: narativ, cronologii vizuale, eseuri structurate
+   Disponibil: online + fizic
+
+8. Prof. Ioana Pavel — Biologie (BAC)
+   Experiență: 4 ani | Rating: 4.5/5 | Disponibilitate: L-V 14:00-19:00
+   Stil: scheme, diagrame, quiz-uri rapide
+   Disponibil: doar online
