@@ -170,4 +170,4 @@ Status: Needs improvement
 ---
 
 Bugs
-None yet. Will update as I test.
+None yet. Will update as I test. Some responses will be improved in a next update.
